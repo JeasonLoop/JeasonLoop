@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  My ![Visitor Count](https://profile-counter.glitch.me/JeasonLoop/count.svg) Visitor
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeasonLoop)](https://github.com/JeasonLoop/github-readme-stats)
 
