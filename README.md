@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeasonLoop)](https://github.com/JeasonLoop/github-readme-stats)
-
-![JeasonLoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeasonLoop&show_icons=true&theme=tokyonight)
-
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
