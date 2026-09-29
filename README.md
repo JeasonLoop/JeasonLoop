@@ -90,8 +90,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1200&color=789A59&center=true&vCenter=true&width=640&lines=WELCOME+TO+JEASONLOOP%27S+WORLD;MINING+%E2%9B%8F+%C2%B7+CODING+TOGETHER;DROP+A+STAR+BEFORE+YOU+GO" alt="footer typing" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=JeasonLoop&color=789A59&style=flat-square&label=%E8%AE%BF%E5%AE%A2" alt="visitors" />
-  &nbsp;
   <img src="https://img.shields.io/github/stars/JeasonLoop?style=flat-square&color=FFA657&label=Stars" alt="stars" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/JeasonLoop?style=flat-square&color=789A59&label=Followers" alt="followers" />
